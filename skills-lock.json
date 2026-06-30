@@ -1,0 +1,23 @@
+{
+    "version": 1,
+    "skills": {
+        "code-convergence-and-abstraction-boundary": {
+            "source": "lonewolfyx/skills",
+            "sourceType": "github",
+            "skillPath": "skills/code-convergence-and-abstraction-boundary/SKILL.md",
+            "computedHash": "205282caecec37a5e3ab0fa67783d95c7d4610b23304d540234dabe55456272a"
+        },
+        "codex-dev-norms": {
+            "source": "ffgenius/codex-dev-norms",
+            "sourceType": "github",
+            "skillPath": "SKILL.md",
+            "computedHash": "cc2cff6ed0d9433f87bba0d52eb4551dae8efffeeef54eb2d915f965bfd05ed2"
+        },
+        "shit-mountain-rating": {
+            "source": "ffgenius/shit-mountain-rating",
+            "sourceType": "github",
+            "skillPath": "skills/shit-mountain-rating/SKILL.md",
+            "computedHash": "2ee93df57f0291e7d604bae3927ab1d21792c0d0097139ffb206f1c37943378f"
+        }
+    }
+}
