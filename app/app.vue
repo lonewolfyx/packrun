@@ -3,7 +3,6 @@
         <SiteLine />
 
         <div
-            c
             :class="cn(
                 'absolute inset-x-0 top-0',
                 'z-10 flex h-11 shrink-0 items-center justify-center gap-7',
